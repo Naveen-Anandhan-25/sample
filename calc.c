@@ -9,5 +9,7 @@ int main(){
         scanf("%d",j);
         printf("Addition : %d",i+j);
         printf("Subtraction: %d",i-j);
+        printf("Multiplication: %d",i*j);
+        printf("Division: %d",i/j);
         return 0;
 }
